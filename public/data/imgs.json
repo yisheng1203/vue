@@ -1,0 +1,13 @@
+[
+    {"img": "./img/a1.jpeg","title":"AWM狙击枪","content":"一枪爆头，伤害贼高","price":"98","number":"1"},
+    {"img": "./img/a2.jpg","title":"M416步枪","content":"性价比高，稳定性强","price":"88","number":"2"},
+    {"img": "./img/a3.jpg","title":"SKS狙击枪","content":"8倍镜配消音器无敌","price":"92","number":"4"},
+    {"img": "./img/a4.png","title":"M24狙击枪","content":"仅次于AWM狙击枪","price":"118","number":"3"},
+    {"img": "./img/a5.jpeg","title":"AUG步枪","content":"空投步枪，加消音强","price":"108","number":"6"},
+    {"img": "./img/a1.jpeg","title":"AWM狙击枪","content":"一枪爆头，伤害贼高","price":"98","number":"1"},
+    {"img": "./img/a2.jpg","title":"M416步枪","content":"性价比高，稳定性强","price":"88","number":"2"},
+    {"img": "./img/a3.jpg","title":"SKS狙击枪","content":"8倍镜配消音器无敌","price":"92","number":"4"},
+    {"img": "./img/a4.png","title":"M24狙击枪","content":"仅次于AWM狙击枪","price":"118","number":"3"},
+    {"img": "./img/a5.jpeg","title":"AUG步枪","content":"空投步枪，加消音强","price":"108","number":"6"}
+
+]
